@@ -387,12 +387,9 @@ while(1)
       break;
 
     case 4:  bus[0].avail();
-
-      break;
-
     case 5: cout<<"Apurba Biswas Dipto";
-      break;
-    case 6:  exit(0);
+-   break;
+-   case 6:  exit(0);
 
   }
 
